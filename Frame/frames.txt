@@ -32,7 +32,18 @@
   "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/13.png",
   "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/14.png",
   "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/15.png",
-  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/16.png"
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/16.png",
+    "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/17.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/18.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/19.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/20.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/21.png",
+   "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/22.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/23.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/24.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/25.png",
+  "https://raw.githubusercontent.com/Parth777-andro/JanF/master/Pic/26.png"
+
 
 
        
